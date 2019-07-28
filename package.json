@@ -36,6 +36,7 @@
     "es3ify": "^0.2.2",
     "inherits": "~2.0.3",
     "lie": "^3.3.0",
+    "mkdir": "0.0.2",
     "pouchdb-extend": "^0.1.2",
     "pouchdb-promise": "^6.4.3",
     "uniq": "^1.0.1"
@@ -52,6 +53,7 @@
     "http-server": "~0.10.0",
     "istanbul": "^0.4.5",
     "jshint": "2.9.5",
+    "mkdirp": "^0.5.1",
     "mocha": "~4.1.0",
     "phantomjs-prebuilt": "^2.1.16",
     "pouchdb-find": "^7.0.0",
@@ -61,8 +63,7 @@
     "selenium-standalone": "6.16.0",
     "uglify-js": "^3.5.6",
     "watchify": "~3.9.0",
-    "wd": "1.11.2",
-    "mkdirp": "^0.5.1"
+    "wd": "1.11.2"
   },
   "files": [
     "lib",
